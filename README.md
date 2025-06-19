@@ -1,11 +1,15 @@
 <!-- HuynhNghiaKHMT -->
 <a href="#" target="_blank">
-  <img src="svg/HuynhNghiaKHMT.svg" width="1200" alt="HuynhNghiaKHMT" />
+  <img src="svg/HuynhNghiaKHMT.svg" width="1200" height="600"  alt="HuynhNghiaKHMT" />
 </a>
 
 <h2 align="center">🛠 Programming Technology 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/Cplusplus-282C34?logo=cplusplus&logoColor=00599C" alt="Cplusplus logo" title="Cplusplus" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Css-282C34?logo=css&logoColor=0082F0" alt="Css logo" title="Css" height="25" /></span>
