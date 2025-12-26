@@ -235,19 +235,19 @@
   <a href="https://github.com/HuynhNghiaKHMT/Vehicle_Tracking_Counting_Speeding">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhNghiaKHMT&repo=Vehicle_Tracking_Counting_Speeding&title_color=beff00&icon_color=beff00&theme=react" />
   </a>
-  <a href="https://github.com/PHTLing/ZippyFarm">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PHTLing&repo=ZippyFarm&title_color=beff00&icon_color=beff00&theme=react" />
+  <a href="https://github.com/HuynhNghiaKHMT/VNese_Text_Summarization">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhNghiaKHMT&repo=VNese_Text_Summarization&title_color=beff00&icon_color=beff00&theme=react" />
   </a>
   <a href="https://github.com/HuynhNghiaKHMT/Computer-Graphics">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhNghiaKHMT&repo=Computer-Graphics&title_color=beff00&icon_color=beff00&theme=react" />
   </a>
-  <a href="https://github.com/HuynhNghiaKHMT/Image-Enhancing">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhNghiaKHMT&repo=Image-Enhancing&title_color=beff00&icon_color=beff00&theme=react" />
+  <a href="https://github.com/HuynhNghiaKHMT/Pedestrian_Tracking">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhNghiaKHMT&repo=Pedestrian_Tracking&title_color=beff00&icon_color=beff00&theme=react" />
   </a>
-  <a href="https://github.com/HuynhNghiaKHMT/Image-Similarity-Finder">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhNghiaKHMT&repo=Image-Similarity-Finder&title_color=beff00&icon_color=beff00&theme=react" />
+  <a href="https://github.com/HuynhNghiaKHMT/Chatbot_VnHistory">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhNghiaKHMT&repo=Chatbot_VnHistory&title_color=beff00&icon_color=beff00&theme=react" />
   </a>
-  <a href="https://github.com/Tatdatda1302/QLMBFINAL ">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tatdatda1302&repo=QLMBFINAL&title_color=beff00&icon_color=beff00&theme=react" />
+  <a href="https://github.com/HuynhNghiaKHMT/Chatbot_RAG_Langchain">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuynhNghiaKHMT&repo=Chatbot_RAG_Langchain&title_color=beff00&icon_color=beff00&theme=react" />
   </a>
 </div>
